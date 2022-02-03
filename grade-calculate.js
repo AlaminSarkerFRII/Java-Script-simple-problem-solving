@@ -1,4 +1,4 @@
-
+//grade calculation using function......
 function yourGrade(name,number){
     if (number >=80 && number<=100){
         var grade = name + ': A+';
